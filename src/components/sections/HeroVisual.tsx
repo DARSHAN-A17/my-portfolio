@@ -1,7 +1,7 @@
 import { useEffect, useRef } from "react";
 import { motion, useMotionValue, useSpring, useTransform } from "framer-motion";
 import { gsap } from "../../animations/core";
-import portraitSrc from "../../animations/d-portrait.png";
+import portraitSrc from "../../assets/DARSHAN.png";
 
 const HOVER_SCALE = 1.025;
 
